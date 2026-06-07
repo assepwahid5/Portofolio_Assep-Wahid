@@ -1,0 +1,123 @@
+{
+  "profile": {
+    "name": "Assep Wahid",
+    "title": "Information Technology Student & Technical Writer",
+    "university": "Universitas Tidar (Tidar University)",
+    "bio": "I am an Information Technology student passionate about software engineering, object-oriented programming (OOP), mobile development with Flutter, data science/analytics, and computer networking. I document my learning journey through technical writing on Medium.",
+    "avatar": "Assep.jpg",
+    "github": "https://github.com/assepwahid5",
+    "linkedin": "https://id.linkedin.com/in/assep-wahid",
+    "medium": "https://medium.com/@assepwahid",
+    "email": "assepwahid.dev@gmail.com"
+  },
+  "articles": [
+    {
+      "id": "art-1",
+      "title": "Konsep Pemrograman Berorientasi Objek (OOP) di Java: Kelas & Objek",
+      "category": "OOP & Java",
+      "description": "Panduan mendalam memahami konsep paling mendasar dari Pemrograman Berorientasi Objek (OOP) menggunakan bahasa Java, berfokus pada instansiasi kelas dan manipulasi objek.",
+      "url": "https://medium.com/@assepwahid",
+      "date": "2026-04-12"
+    },
+    {
+      "id": "art-2",
+      "title": "Enkapsulasi dalam Pemrograman Berorientasi Objek dengan Java",
+      "category": "OOP & Java",
+      "description": "Mempelajari pentingnya data hiding dan pembatasan akses data menggunakan getter, setter, dan access modifier di Java untuk menjaga integritas kode.",
+      "url": "https://medium.com/@assepwahid",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "art-3",
+      "title": "Polimorfisme dan Abstraksi pada Java",
+      "category": "OOP & Java",
+      "description": "Menjelajahi konsep antarmuka (interface), kelas abstrak (abstract class), serta override/overload method untuk fleksibilitas struktur kode Java.",
+      "url": "https://medium.com/@assepwahid",
+      "date": "2026-05-02"
+    },
+    {
+      "id": "art-4",
+      "title": "Komposisi dan Agregasi dalam OOP",
+      "category": "OOP & Java",
+      "description": "Analisis pola relasi objek 'has-a' (memiliki) melalui implementasi taktis dari Komposisi dan Agregasi dalam pemrograman Java.",
+      "url": "https://medium.com/@assepwahid",
+      "date": "2026-05-10"
+    },
+    {
+      "id": "art-5",
+      "title": "Setup Pengembangan Aplikasi Mobile Menggunakan Flutter",
+      "category": "Mobile Development",
+      "description": "Langkah-langkah praktis melakukan konfigurasi awal environment pengembangan aplikasi Android/iOS menggunakan framework Flutter dari nol.",
+      "url": "https://medium.com/@assepwahid",
+      "date": "2026-05-18"
+    },
+    {
+      "id": "art-6",
+      "title": "Pembuatan Sistem Manajemen Perpustakaan Digital",
+      "category": "OOP & Java",
+      "description": "Studi kasus merancang aplikasi manajemen perpustakaan mandiri dengan menerapkan prinsip pemrograman modular, polymorphism, dan pewarisan di Java.",
+      "url": "https://medium.com/@assepwahid",
+      "date": "2026-05-25"
+    },
+    {
+      "id": "art-7",
+      "title": "Konfigurasi Routing di Cisco Packet Tracer",
+      "category": "Networking",
+      "description": "Tutorial langkah-demi-langkah melakukan konfigurasi static routing dan dynamic routing (RIP/OSPF) menggunakan simulator Cisco Packet Tracer.",
+      "url": "https://medium.com/@assepwahid",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "art-8",
+      "title": "Advanced Machine Learning Menggunakan Spark MLlib",
+      "category": "Data Science",
+      "description": "Panduan analisis big data dan implementasi model klasifikasi / klasterisasi terdistribusi menggunakan library Apache Spark MLlib.",
+      "url": "https://medium.com/@assepwahid",
+      "date": "2026-06-05"
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "Digital Library Management System",
+      "category": "OOP & Java",
+      "description": "Aplikasi konsol manajemen perpustakaan digital berbasis Java. Menerapkan hubungan agregasi dan enkapsulasi objek untuk mengelola data anggota, sirkulasi buku, serta sistem denda.",
+      "link": "https://github.com/assepwahid5",
+      "image": "uploads/project_library.jpg"
+    },
+    {
+      "id": "proj-2",
+      "title": "Spark MLlib Predictive Analytics Pipeline",
+      "category": "Data Science",
+      "description": "Pipeline data analytics skala besar untuk memproses data terdistribusi. Melatih model machine learning (Logistic Regression dan Random Forest) menggunakan framework Spark MLlib.",
+      "link": "https://github.com/assepwahid5",
+      "image": "uploads/project_spark.jpg"
+    },
+    {
+      "id": "proj-3",
+      "title": "Cisco Enterprise Routing Simulation",
+      "category": "Networking",
+      "description": "Desain arsitektur jaringan lokal (LAN/WAN) perusahaan di Cisco Packet Tracer. Mengkonfigurasi OSPF routing, VLAN segmentation, DHCP Relay, dan Access Control List (ACL).",
+      "link": "https://github.com/assepwahid5",
+      "image": "uploads/project_network.jpg"
+    },
+    {
+      "id": "proj-test",
+      "title": "Test Project API Verification",
+      "category": "Networking",
+      "description": "Temporary project to verify backend POST capabilities.",
+      "link": "https://github.com",
+      "image": ""
+    },
+    {
+      "id": "proj-1780826786136",
+      "title": "Listview and sharedpreference",
+      "category": "Mobile Development",
+      "description": "listview dan sharedpreference",
+      "link": "https://github.com/assepwahid5/Praktikum-Mobile/tree/main/cinetrack_app/lib",
+      "image": "",
+      "attachment": "uploads/Laporan_Praktikum_Pertemuan_10_1780826786.docx",
+      "content": ""
+    }
+  ]
+}
